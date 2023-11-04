@@ -12,5 +12,4 @@ University of South Florida
 
 * "instructions.pdf": this is the project instructions with background on the functionality, design requirements, constraints, and more. Read this first.
 * "Final Project Report.pdf": this is the project report showing (i) all the modules/sub-modules schematics and layouts, (ii) functionality and design explanation, and (iii) simulation results (waveforms).
-* "16x16Mult_image.jpg": contains ultra-high resolution snapshots of the final layouts. You can zoom-in to the smallest detail and text anywhere on the design image.
 * Design Directory: contains all the Candance Virtuoso modules and submodules each compressed using tar. Also, included a copy of the final product as a "gds" file.
