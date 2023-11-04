@@ -12,5 +12,5 @@ University of South Florida
 
 * "instructions.pdf": this is the project instructions with background on the functionality, design requirements, constraints, and more. Read this first.
 * "Final Project Report.pdf": this is the project report showing (i) all the modules/sub-modules schematics and layouts, (ii) functionality and design explanation, and (iii) simulation results (waveforms).
-* "Sub-Modules Design" Directory: contains all the Cadence Virtuoso submodules each compressed using tar.
+* "Sub-Modules Designs" Directory: contains all the Cadence Virtuoso submodules each compressed using tar.
 * "16x16Mult.gds.zip": this has the "gds" file of the final project layout in Cadence Virtuoso.
